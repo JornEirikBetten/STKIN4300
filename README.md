@@ -1,0 +1,2 @@
+# STKIN4300
+Assignment in STKIN4300
