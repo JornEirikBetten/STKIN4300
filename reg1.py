@@ -34,6 +34,7 @@ x = qsar.x # non-dichotomized
 xD = qsar.xdich # dichotomized
 y = qsar.y # response
 
+print(x.shape)
 """
 Split in train and test
 """

@@ -3,7 +3,7 @@ Assignment in STKIN4300
 
 
 ## The objectives
-Do regressional analysis of the QASR dataset, and a classifcation analysis on the PIMA dataset. 
+Do regressional analysis of the QASR dataset, and a classifcation analysis on the PIMA dataset.
 
 ### reg1-6
 Code related to exercise numbers in problem set.
